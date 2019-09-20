@@ -1,0 +1,16 @@
+.image {
+    display:inline-block;
+    position: relative;
+}
+
+.Screen {
+    margin-top: 140px;
+    text-align:center;
+}
+
+.h1-meh {
+    font-size: 180px;
+    border: none;
+    margin-top: 200px;
+    color: white;
+}

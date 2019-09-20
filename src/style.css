@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 80px;
+    border-style: none;
+}
+
+button{
+    font-size: 100px;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+
+ul#horizontal-list li {
+    display: inline;
+    margin: 60px;
+}
+
+.cardBox{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.panel {
+    display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
